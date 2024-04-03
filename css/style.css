@@ -78,6 +78,9 @@ ul li:hover a {
 	margin-bottom: 0px;
 	margin-left: 0px;
 }
+a.title3 {
+	color: #0c3179 !important;
+}
 
 a:link, a:visited {
   background-color: none;
